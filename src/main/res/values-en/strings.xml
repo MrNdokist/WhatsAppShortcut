@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rate_us">Rate Us</string>
+    <string name="titles"></string>
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="toast_exit_message">Press again to exit</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_contact_name">Contact Name:</string>
+    <string name="txt_help_title">Help</string>
+    <string name="how_to_use_this_app">How to use it!</string>
+    <string name="help_msg3">This is an application that allows you to call or send a message on WhatsApp to a new contact without registering it. It also allows you to save or share WhatsApp status of your contacts.</string>
+    <string name="help_msg4">View more applications in menu to download World Countries Codes</string>
+    <string name="code_des_pays_du_monde">World countries Codes</string>
+    <string name="pas_de_compte">Your contact have not a WhatsApp account</string>
+    <string name="info_help">Your contact does not have a WhatsApp account.\nPlease check if your contact has a Whatsapp account to place the call.\nIf it\'s a new contact, register it in your contacts to take advantage of this feature</string>
+</resources>

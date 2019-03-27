@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:n1="http://schemas.android.com/apk/res/android"
+    n1:layout_width="match_parent"
+    n1:layout_height="match_parent">
+
+    <RelativeLayout
+        n1:layout_width="200dp"
+        n1:layout_height="200dp"
+        n1:layout_centerInParent="true">
+
+        <ImageView
+            n1:id="@+id/img_theme"
+            n1:layout_width="match_parent"
+            n1:layout_height="match_parent"
+            n1:layout_centerHorizontal="true"
+            n1:layout_centerVertical="true"
+            n1:layout_margin="5dp"
+            n1:scaleType="centerCrop" />
+
+        <ImageView
+            n1:id="@+id/isVideo"
+            n1:layout_width="50dp"
+            n1:layout_height="50dp"
+            n1:layout_centerInParent="true"
+            n1:src="@drawable/selecter"
+            n1:visibility="gone" />
+    </RelativeLayout>
+</RelativeLayout>

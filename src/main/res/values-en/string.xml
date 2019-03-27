@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shortcuts</string>
+    <string name="action_settings">Settings</string>
+    <string name="editNumber">Enter a phone number</string>
+    <string name="about_text">The best shortcuts application simple and fast utility for WhatsApp features </string>
+    <string name="about">About</string>
+    <string name="help_app">World Countries Codes</string>
+    <string name="more">More Applications</string>
+    <string name="download">DOWNLOAD IT</string>
+    <string name="code_countries_text">Find quicly the countries code by its Name or countrie Name by its Code  </string>
+    <string name="share">Share</string>
+    <string name="rate_this_app">RATE THIS APP</string>
+    <string name="recents">Recents Status</string>
+    <string name="btn_texte">Send message</string>
+    <string name="edittext">Contact Name</string>
+    <string name="help_msg2">Enter the phone number with the country code.\nSome examples 242066969099\t or 1374-099-9999</string>
+    <string name="help_msg">Start quickly a WhatsApp Chat without saving the number in your contacts or with your favorite contact</string>
+
+    <string name="privacy_policy_link">http://askmanu.in/oganprivacy.html</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="save_directory_name">WhatsappShortcut</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="test_device_id" />
+    <string name="view_status">Status</string>
+    <string name="title_activity_shorts"></string>
+    <string name="shortcuts">W Shortcuts</string>
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Madzou+Michel+Bercy</string>
+    <string name="title_activity_view_recent_status"></string>
+    <string name="title_activity_play"></string>
+    <string name="title_activity_video_recent">VideoRecentActivity</string>
+
+</resources>

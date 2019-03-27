@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Shortcuts</string>
+    <string name="action_settings">Settings</string>
+    <string name="editNumber">Veuillez saisir un numero </string>
+    <string name="about_text">La meilleure application simple et rapide pour les fonctionnalités de WhatsApp.</string>
+    <string name="about">Apropos</string>
+    <string name="help_app">Code des Pays du Monde</string>
+    <string name="more">Plus d\'Applications</string>
+    <string name="download">TELECHARGER</string>
+    <string name="code_countries_text">Rechercher rapidement le Code d\'un pays par son Nom ou le Nom d\'un pays par son Code</string>
+    <string name="share">Partager</string>
+    <string name="rate_this_app">NOTEZ L\'APPLICATION</string>
+    <string name="help_msg2">Entrez un numero avec le code du pays \n Par exemples: 242068375490\t ou 1374-099-9999</string>
+    <string name="help_msg">Commencez rapidement une conversation sur WhatsApp avec un contact de votre repertoire</string>
+    <string name="edittext">Nom du contact</string>
+    <string name="btn_texte">Envoyer un message</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recents">Status Recents</string>
+    <string name="title_activity_view_recent_status">Affichage</string>
+
+    <string name="privacy_policy_link">http://askmanu.in/oganprivacy.html</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="save_directory_name">Download</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="test_device_id" />
+    <string name="view_status">Status</string>
+    <string name="rate_us">Evaluez</string>
+    <string name="shortcuts">Shortcuts</string>
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Madzou+Michel+Bercy</string>
+    <string name="title_activity_shorts"></string>
+    <string name="toast_exit_message">Appuyez encore pour quitter</string>
+    <string name="txt_contact_name">Nom du contact:</string>
+    <string name="txt_help_title">Aide</string>
+    <string name="how_to_use_this_app">Comment ça marche!</string>
+    <string name="help_msg3">C\'est une application qui vous permet d\'appeler ou d\'envoyer un message sur WhatsApp à un nouveau contact sans l\'enreigistrer.Elle vous permet aussi de sauvegarder et partager les status WhatsApp de vos contacts  </string>
+    <string name="help_msg4">Consulter plus d\'application dans le menu pour découvrir les codes de tous le pays du Monde</string>
+    <string name="code_des_pays_du_monde">Code des pays du Monde</string>
+    <string name="pas_de_compte">Votre contact n\'as pas de compte WhatsApp</string>
+    <string name="info_help">Veuillez verifier si votre contact dispose d\'un compte Whatsapp pour passer cette appel\nOu si c\'est un nouveau contact,enreigistrez le dans vos contacts pour profiter de cette fonctionnalité.</string>
+    <string name="title_activity_play"></string>
+    <string name="title_activity_video_recent">VideoRecentActivity</string>
+
+
+</resources>

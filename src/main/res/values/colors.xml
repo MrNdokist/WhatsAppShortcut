@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ff0a6056</color>
+    <color name="colorPrimary">#ff0a6056</color>
+    <color name="colorPrimaryDark">#ff07433c</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFF</color>
+    <color name="scrollbar">#546E7A</color>
+    <color name="grey_40">#ff999999</color>
+    <color name="grey_60">#ff666666</color>
+    <color name="grey_20">#ffcccccc</color>
+    <color name="grey_90">#ff263238</color>
+    <color name="grey_80">#ff37474f</color>
+
+</resources>

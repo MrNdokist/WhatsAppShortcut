@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mrndokist.app.shortcuts.ViewRecentStatusActivity">
+
+    <item
+        android:id="@+id/repost"
+        android:icon="@drawable/ic_repost24dp"
+        android:orderInCategory="1"
+        android:title="Repost"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:orderInCategory="2"
+        android:title="Share"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/download"
+        android:icon="@drawable/ic_file_download_black_24dp"
+        android:orderInCategory="3"
+        android:title="Download"
+        app:showAsAction="always" />
+</menu>

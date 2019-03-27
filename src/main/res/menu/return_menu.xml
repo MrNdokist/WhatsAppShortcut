@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mrndokist.app.shortcuts.ShorcutsActivity">
+
+    <item
+        android:id="@+id/action_whtsapp"
+        android:orderInCategory="101"
+        android:title="wsapp"
+        android:icon="@drawable/ic_whatshot"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="102"
+        android:icon="@drawable/ic_help"
+        android:title="Help"
+        app:showAsAction="always|collapseActionView" />
+
+</menu>
